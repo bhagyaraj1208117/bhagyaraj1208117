@@ -39,10 +39,11 @@ Designed authentication and authorization systems.
 
 
 
-📫 Let's Connect!
+### 📫 Let's Connect!
 
-### Email bhagyaraj1208117@gmail.com
+- **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhagyaraj1208117@gmail.com)
 
-### Linkedin www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121)
+
 
 

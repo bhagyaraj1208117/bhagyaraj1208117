@@ -1,7 +1,4 @@
 
-Memory updated
-Sure, here's a concise and visually appealing content for your GitHub profile, including images:
-
 👋 Hi, I'm Bhagya Raj Kumar Jujjavarapu!
 🚀 Web Developer | Blockchain Enthusiast
 
@@ -45,6 +42,7 @@ Designed authentication and authorization systems.
 📫 Let's Connect!
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) bhagyaraj1208117@gmail.com
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121
 
 

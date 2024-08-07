@@ -2,6 +2,11 @@
 👋 Hi, I'm Bhagya Raj Kumar Jujjavarapu!
 🚀 Web Developer | Blockchain Enthusiast
 
+
+## 🌐 Socials
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhagyaraj1208117@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121](https://www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121/))
+
 ### 🛠️ Skills
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -19,11 +24,12 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+## 📊 GitHub Stats
+![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-### 📫 Let's Connect!
 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhagyaraj1208117@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121](https://www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121/))
+
+
 
 
 

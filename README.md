@@ -3,7 +3,6 @@ Memory updated
 Sure, here's a concise and visually appealing content for your GitHub profile, including images:
 
 👋 Hi, I'm Bhagya Raj Kumar Jujjavarapu!
-https://res.cloudinary.com/dlfwu43qp/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1723030286/profile-linkedin-img_k6sjwl.jpg
 🚀 Web Developer | Blockchain Enthusiast
 
 💡 Passionate about building innovative and scalable web applications using cutting-edge technologies. With over a year of hands-on experience, I specialize in:
@@ -27,7 +26,7 @@ Secure Data Transmission
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 🔭 Professional Experience
 Blockchain Developer @ Dugong Global Services
@@ -44,6 +43,7 @@ Designed authentication and authorization systems.
 
 
 📫 Let's Connect!
+
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) bhagyaraj1208117@gmail.com
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121
 

@@ -22,9 +22,8 @@
 
 ### 📫 Let's Connect!
 
-- **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhagyaraj1208117@gmail.com)
-
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121](https://www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121/))
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhagyaraj1208117@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121](https://www.linkedin.com/in/bhagya-raj-kumar-jujjavarapu-975160121/))
 
 
 

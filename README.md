@@ -2,13 +2,7 @@
 👋 Hi, I'm Bhagya Raj Kumar Jujjavarapu!
 🚀 Web Developer | Blockchain Enthusiast
 
-💡 Passionate about building innovative and scalable web applications using cutting-edge technologies. With over a year of hands-on experience, I specialize in:
-
-P2P Applications
-Blockchain Technology
-Decentralization
-Secure Data Transmission
-🛠️ Skills
+### 🛠️ Skills
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,19 +18,6 @@ Secure Data Transmission
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-🔭 Professional Experience
-Blockchain Developer @ Dugong Global Services
-
-Led development of a PoS blockchain platform.
-Designed gRPC, REST API, and WebSocket interfaces.
-Developed Rust smart contract execution environment for dApps.
-Web Developer @ Sigma Computing Solutions
-
-Created responsive layouts with React and Material-UI.
-Implemented Redux for state management.
-Designed authentication and authorization systems.
-
 
 
 ### 📫 Let's Connect!

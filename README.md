@@ -24,8 +24,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## 📊 GitHub Stats
-![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagyaraj1208117&show_icons=true&theme=radical)
 
 
 
